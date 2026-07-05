@@ -20,18 +20,30 @@ Cricketer on the side, which is partly why my current project is about making bi
  
 ---
  
-## Tech Stack
+## Socials
  
-Python, HTML, TypeScript, React, FastAPI, PyTorch, Firebase, SQL, Git
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arohancist/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.localhostlabs.in/)
  
 ---
  
+## Tech Stack
+ 
+[![My Skills](https://skillicons.dev/icons?i=python,HTML,CSS,javascript,ts,react,fastapi,pytorch,firebase,postgres,git,github,figma,docker,html,css,js,vite)](https://skillicons.dev)
+ 
+---
+
 ## GitHub Stats
  
-![A Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-ak43&theme=dark&hide_border=false&include_all_commits=true)
+![A Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-ak43&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=rohan-ak43&theme=dark&hide_border=false)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ak43&theme=dark&hide_border=false&layout=compact)
  
 ---
+ 
+![Profile views](https://komarev.com/ghpvc/?username=rohan-ak43&color=blueviolet)
  
 ## Reach me
  
