@@ -8,9 +8,9 @@ Cricketer on the side, which is partly why my current project is about making bi
  
 ## Projects
  
-**[CrickIQ]** — Cricket biomechanics analysis. Custom transformer (CrickLM, ~10M params, PyTorch) plus MediaPipe pose estimation on a FastAPI backend, React/TypeScript frontend. No external AI API calls; the model runs on its own.
+**CrickIQ** — Cricket biomechanics analysis. Custom transformer (CrickLM, ~10M params, PyTorch) plus MediaPipe pose estimation on a FastAPI backend, React/TypeScript frontend. No external AI API calls; the model runs on its own.
 
-**[Forá]** — A time capsule app: schedule messages to yourself or others with precise time controls and privacy settings. React/TypeScript, Firebase.
+**Forá** — A time capsule app: schedule messages to yourself or others with precise time controls and privacy settings. React/TypeScript, Firebase.
  
 **UNI-O** — A platform for Indian college students to find hackathons, solve coding challenges with real code execution, and form teams. Next.js 14, Firebase. Validated the idea with a 100-person survey before building most of it out.
  
