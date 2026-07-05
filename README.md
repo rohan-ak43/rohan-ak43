@@ -28,8 +28,8 @@ Python, HTML, TypeScript, React, FastAPI, PyTorch, Firebase, SQL, Git
  
 ## GitHub Stats
  
-![A Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-ak43&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ak43&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![A Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-ak43&theme=dark&hide_border=false&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ak43&theme=dark&hide_border=false&layout=compact)
  
 ---
  
