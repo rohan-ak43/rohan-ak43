@@ -62,7 +62,7 @@ Cricketer on the side, which is partly why my current project is about making bi
  
 ## Reach me
  
-LinkedIn: (https://www.linkedin.com/in/arohancist/)
+LinkedIn: https://www.linkedin.com/in/arohancist/
 
 
 Email: akrohan437@gmail.com
