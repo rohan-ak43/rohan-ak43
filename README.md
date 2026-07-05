@@ -29,17 +29,17 @@ Cricketer on the side, which is partly why my current project is about making bi
  
 ## Tech Stack
  
-[![My Skills](https://skillicons.dev/icons?i=python,HTML,CSS,javascript,ts,react,fastapi,pytorch,firebase,postgres,git,github,figma,docker,html,css,js,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,ts,react,fastapi,pytorch,numpy,pandas,firebase,postgres,git,github,figma,docker,vite)](https://skillicons.dev)
  
 ---
 
 ## GitHub Stats
  
-![A Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-ak43&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohan-ak43&theme=github_dark)
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rohan-ak43&theme=dark&hide_border=false)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ak43&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohan-ak43&theme=github_dark)
  
 ---
  
@@ -48,4 +48,6 @@ Cricketer on the side, which is partly why my current project is about making bi
 ## Reach me
  
 LinkedIn: (https://www.linkedin.com/in/arohancist/)
+
+
 Email: akrohan437@gmail.com
