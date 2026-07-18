@@ -45,20 +45,8 @@ Cricketer on the side, which is partly why my current project is about making bi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  
 ---
-
-## GitHub Stats
  
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohan-ak43&theme=github_dark)
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rohan-ak43&theme=dark&hide_border=false)
- 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohan-ak43&theme=github_dark)
- 
----
- 
-![Profile views](https://komarev.com/ghpvc/?username=rohan-ak43&color=blueviolet)
- 
-## Reach me
+## Contact Me
  
 LinkedIn: https://www.linkedin.com/in/arohancist/
 
