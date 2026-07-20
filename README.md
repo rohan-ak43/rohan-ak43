@@ -2,7 +2,7 @@
  
 I am a B.Tech CSE(IoT) student (Semester VII), working across AI/ML, web, and mobile applications.
  
-Cricketer on the side, which is partly why my current project is about making biomechanical performance analysis useful outside elite-level sport. Currently building CrickIQ, a cricket biomechanics tool with a self-contained ML backend — no external AI APIs.
+Cricketer on the side, which is partly why my current project is about making biomechanical performance analysis useful outside elite-level sport. Currently building CrickIQ, a cricket biomechanics tool with a self-contained ML backend - no external AI APIs.
  
 ---
  
