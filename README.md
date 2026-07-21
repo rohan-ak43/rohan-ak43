@@ -23,7 +23,7 @@ Cricketer on the side, which is partly why my current project is about making bi
 ## Socials
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arohancist/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.localhostlabs.in/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)]((https://rohan-portfolio-woad.vercel.app/))
  
 ---
  
@@ -47,8 +47,14 @@ Cricketer on the side, which is partly why my current project is about making bi
 ---
  
 ## Contact Me
+
+Website - https://rohan-portfolio-woad.vercel.app/
+
+
  
 LinkedIn: https://www.linkedin.com/in/arohancist/
 
 
+
 Email: akrohan437@gmail.com
+
